@@ -1,0 +1,33 @@
+/* paleta de cores: https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51 */
+body {
+  background-color: #f9f9f9;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  color: #f9f9f9 !important;
+}
+
+.navbar {
+  background-color: #264653;
+}
+
+.quem-somos{
+  background-color: #e9c46a;
+  color: white;
+}
+
+.margin{
+  padding-bottom: 50px;
+  padding-top: 10px;
+
+}
+
+.parceiros{
+  background-color: #f4a261;
+}
+
+.bg-footer{
+  background-color: #2a9d8f;
+  color: #f9f9f9;
+}
